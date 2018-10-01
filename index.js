@@ -2,11 +2,9 @@
 main.remove();
 
 /* Create your new element here and assign it to newHeader */
-const newHeader = null;
+const newHeader = document.createElement('div');
 
-let newElement = document.create('div')
-
-document.body.appendChild(newElement)
+document.body.appendChild(newHeader)
 
 
 
