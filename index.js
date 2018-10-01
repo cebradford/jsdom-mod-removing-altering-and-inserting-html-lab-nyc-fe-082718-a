@@ -10,3 +10,5 @@ const newHeader = null;
 
 // element.appendChild(h1)
 
+var element = document.createElement(h1);
+
