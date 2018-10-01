@@ -12,6 +12,7 @@ const newHeader = null;
 
 // h1.innerHTML = 'HEY'
 
+var element = document.createElement("h1");
 document.getElementById('id').appendChild(element);
 
 
