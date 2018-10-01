@@ -14,7 +14,7 @@ const newHeader = null;
 
 var element = document.createElement("h1");
 element.appendChild(document.createTextNode('The man who mistook his wife for a hat'));
-document.getElementById('id').appendChild(element);
+document.getElementById('main').appendChild(element);
 
 
 
