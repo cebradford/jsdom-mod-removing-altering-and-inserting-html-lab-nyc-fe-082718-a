@@ -10,7 +10,7 @@ var h1 = document.createElement('h1')
 
 element.appendChild(h1)
 
-element.innerHTML = 'Hello'
+h1.innerHTML = 'HEY'
 
 
 
