@@ -4,13 +4,16 @@ main.remove();
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
 
-document.body.appendChild(element)
+// document.body.appendChild(element)
 
-var h1 = document.createElement('h1')
+// var h1 = document.createElement('h1')
 
-element.appendChild(h1)
+// element.appendChild(h1)
 
-h1.innerHTML = 'HEY'
+// h1.innerHTML = 'HEY'
+
+document.getElementbyId('id').appendChild(element);
+
 
 
 
